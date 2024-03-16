@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:provider/provider.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
+import '../widget/birb.dart';
 import '../widget/message_widget.dart';
 import '../models/chat_message.dart';
 import '../providers/chat_provider.dart';
