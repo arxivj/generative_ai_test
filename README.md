@@ -1,3 +1,5 @@
+![Screenshot_20240320_130028](https://github.com/arxivj/flutter_test/assets/134363495/b8c31be6-0255-40c2-86cc-bb19dc1d0c14)
+
 # generative_ai_test :robot:
 
 ## 소개 :sparkles:
